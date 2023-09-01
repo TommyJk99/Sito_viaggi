@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(240, 240, 240) !important;
+}
+.nav-item:not(:first-of-type) {
+  margin-left: 2rem;
+}
+
+.icon-size {
+  margin-left: 2rem;
+}
